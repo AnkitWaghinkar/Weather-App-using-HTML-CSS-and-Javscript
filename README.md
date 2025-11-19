@@ -13,4 +13,7 @@ A weather app built with HTML, CSS, and JavaScript. It fetches and displays the 
 - CSS  
 - JavaScript (API Integration).
 
+##Screenshot
+Here is a preview of Weather App:
+
 <img width="1024" height="639" alt="Weather App preview" src="https://github.com/user-attachments/assets/5227df40-e75c-4b49-9770-c1c57c9eb70b" />
